@@ -10,5 +10,5 @@ A lot of the process of setting up this blog was new to me. I had had some exper
 
 Writing in the terminal was the most difficult part for me, but writing the Markdown file came pretty easily. I'm most looking forward to learning more about Jekyll and writing more code using [Markdown] [Markdown].
 
-[GitHub]: [https://github.com]
-[Markdown]: [https://www.markdownguide.org]
+[GitHub]: https://github.com
+[Markdown]: https://www.markdownguide.org
