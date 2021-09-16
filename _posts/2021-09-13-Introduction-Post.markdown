@@ -2,6 +2,7 @@
 layout: post
 title: "Introduction Post"
 date: 2021-09-13 2:33:13 -0500
+author: Rhett Booher
 ---
 A lot of the process of setting up this blog was new to me. I had had some experience creating and cloning a repository on [GitHub] [GitHub], but there were some steps in the process that were somewhat, if not, entirely, new to me, including:
 * Using the computer terminal.
