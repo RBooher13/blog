@@ -1,5 +1,5 @@
 current directory: /Users/rhettbooher/Documents/GitHub/RBooher13.github.io/JekyllBlog/blog/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20211117-16571-1qxz1v1.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20211206-8856-1jkuuwb.rb extconf.rb
 creating Makefile
 
 current directory: /Users/rhettbooher/Documents/GitHub/RBooher13.github.io/JekyllBlog/blog/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
